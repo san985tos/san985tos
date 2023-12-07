@@ -69,7 +69,7 @@
 ```
 
 
-[linkedin-url]: https://www.linkedin.com/in/san985tos/
+[linkedin-url]: [https://www.linkedin.com/in/san985tos/](https://www.linkedin.com/in/luis-santiago-v%C3%A1zquez-burgos-171572b5/)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <!--
