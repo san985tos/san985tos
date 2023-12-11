@@ -36,7 +36,7 @@
 ## ⚡ Fun fact: always happy to help
 
 ```yaml
-- name: "Heber Romero, about me:"
+- name: "Luis Santiago Vazquez, about me:"
   hosts: rhel,arch,macos,coreos
   become: yes
   vars:
